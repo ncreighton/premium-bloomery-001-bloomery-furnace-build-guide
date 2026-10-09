@@ -1,0 +1,2 @@
+# premium-bloomery-001-bloomery-furnace-build-guide
+Building a bloomery furnace from scratch is overwhelming without a structured blueprint. Stop guessing on dimensions, materials, and sequencing—the Bloomery Furnace Build Guide gives you a battle-tested framework inside Notion.  This template eliminates the fragmented research process by organizing every furnace-building step into a visual, actiona
